@@ -4,3 +4,4 @@ police folder contains files realated to Police user-class.
 user folder contains files realated to User user-class.
 index.html and style.css is the main page.
 Make sure that you import crms.sql which includes all the tables.
+Developed using HTML, CSS, PHP and SQL.
